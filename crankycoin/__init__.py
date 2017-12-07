@@ -4,3 +4,4 @@ from errors import *
 from node import *
 from transaction import *
 from wallet import *
+from interface import *
